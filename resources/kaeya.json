@@ -1,0 +1,14 @@
+{
+    "name": "kaeya",
+    "weapon": "sword",
+    "stats": {
+        "level-1": {
+            "hp": "976",
+            "atk": "18.7",
+            "def": "66.38",
+            "critrate": "5.0",
+            "critdamage": "50.0",
+            "energy-recharge": "0"
+        }
+    } 
+}
